@@ -424,6 +424,31 @@ function num20()
     let n = parseInt(prompt("n="));
     console.log(words(n));
 }
+ </script>
+    
+    <p><button onclick="num1()">Задание 1</button></p>
+    <p><button onclick="num2()">Задание 2</button></p>
+    <p><button onclick="num3()">Задание 3</button></p>
+    <p><button onclick="num4()">Задание 4</button></p>
+    <p><button onclick="num5()">Задание 5</button></p>
+    <p><button onclick="num6()">Задание 6</button></p>
+    <p><button onclick="num7()">Задание 7</button></p>
+    <p><button onclick="num8()">Задание 8</button></p>
+    <p><button onclick="num9()">Задание 9</button></p>
+    <p><button onclick="num10()">Задание 10</button></p>
+    <p><button onclick="num11()">Задание 11</button></p>
+    <p><button onclick="num12()">Задание 12</button></p>
+    <p><button onclick="num13()">Задание 13</button></p>
+    <p><button onclick="num14()">Задание 14</button></p>
+    <p><button onclick="num15()">Задание 15</button></p>
+    <p><button onclick="num16()">Задание 16</button></p>
+    <p><button onclick="num17()">Задание 17</button></p>
+    <p><button onclick="num18()">Задание 18</button></p>
+    <p><button onclick="num19()">Задание 19</button></p>
+    <p><button onclick="num20()">Задание 20</button></p>
+</body>
+</html>
+
 ```
 <p>Задачи из codewars:</p>
 1
